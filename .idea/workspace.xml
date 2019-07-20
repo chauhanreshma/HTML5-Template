@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="856bd197-8b0e-474c-a98d-7168b5a5fbda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forester web layout/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunatic/.idea/lunatic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunatic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunatic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunatic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunatic/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunatic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap-layout" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap-layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap-layout-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap-layout-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap-second" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap-second" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forester web layout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forester web layout/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forester web layout/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../forester web layout/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forester web layout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../forester web layout/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobirise-bootstrap-layout" beforeDir="false" afterPath="$PROJECT_DIR$/../mobirise-bootstrap-layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../small task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../small task/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../small task/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../small task/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toystore-website-layout" beforeDir="false" afterPath="$PROJECT_DIR$/../toystore-website-layout" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="487" selection-start-line="107" selection-end-line="487" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>three-</find>
+      <find>col-lg-6 col-sm-12 col-md-6 secvice-space</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HTML5 Template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5 Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML5 Template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5 Template" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML5 Template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5 Template" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../forester web layout" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bootstrap\HTML5 Template\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856bd197-8b0e-474c-a98d-7168b5a5fbda" name="Default Changelist" comment="" />
+      <created>1554890326175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554890326175</updated>
+      <workItem from="1554890327962" duration="757000" />
+      <workItem from="1556792822861" duration="2186000" />
+      <workItem from="1556796077545" duration="5446000" />
+      <workItem from="1561793779091" duration="1759000" />
+      <workItem from="1561795691342" duration="1784000" />
+      <workItem from="1561797526290" duration="369000" />
+      <workItem from="1561798137000" duration="8000" />
+      <workItem from="1561800104221" duration="1735000" />
+      <workItem from="1561801910950" duration="1942000" />
+      <workItem from="1561804010204" duration="1750000" />
+      <workItem from="1562561550843" duration="1588000" />
+      <workItem from="1562563472532" duration="1761000" />
+      <workItem from="1562565271762" duration="1810000" />
+      <workItem from="1562567117416" duration="1783000" />
+      <workItem from="1562568960695" duration="1947000" />
+      <workItem from="1562570958070" duration="1508000" />
+      <workItem from="1562573558371" duration="1881000" />
+      <workItem from="1562575483321" duration="1794000" />
+      <workItem from="1562577312488" duration="1793000" />
+      <workItem from="1562579142587" duration="1410000" />
+      <workItem from="1562646605897" duration="936000" />
+      <workItem from="1562658441579" duration="1553000" />
+      <workItem from="1562660357454" duration="1682000" />
+      <workItem from="1562662172822" duration="1098000" />
+      <workItem from="1562664924040" duration="1260000" />
+      <workItem from="1562670039159" duration="278000" />
+      <workItem from="1562733435264" duration="11233000" />
+      <workItem from="1562746901378" duration="7541000" />
+      <workItem from="1562827586664" duration="16033000" />
+      <workItem from="1562995749896" duration="16322000" />
+      <workItem from="1563165545735" duration="5482000" />
+      <workItem from="1563180601096" duration="6000" />
+      <workItem from="1563181048463" duration="14000" />
+      <workItem from="1563181207683" duration="716000" />
+      <workItem from="1563182142779" duration="647000" />
+      <workItem from="1563267187838" duration="4823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104635000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1737481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/support@mobirise.com.url" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="487" selection-start-line="107" selection-end-line="487" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

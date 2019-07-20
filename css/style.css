@@ -1,0 +1,498 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+/*<section-1>*/
+.bg-color {
+    background-color: black;
+}
+
+.logo {
+    width: 18%;
+}
+
+.dropmenu {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    background-color: #313131;
+    left: 50px;
+    display: none;
+    color: white;
+    list-style-type: none;
+    width: 350px;
+}
+.dropmenu li {
+    color: white;
+    padding: 10px;
+    display: block;
+}
+.dropmenu li:hover{
+    color: lightgrey;
+}
+.drop-cols:hover .dropmenu{
+    display: block;
+
+}
+
+.header-font {
+    font-size: 13px;
+    color: white;
+    width: 70%;
+    text-align: center;
+    position: relative;
+    left: 25px;
+    top: 10px;
+}
+
+.header-num {
+    color: white;
+}
+
+.header-num:hover {
+    color: #b3b3b3;
+    text-decoration: none;
+}
+
+.btn {
+    border: solid 2px white;
+    padding: 13px 26px;
+    /*color: black;*/
+
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.btnhover:hover{
+    text-decoration:none;
+    color: black;
+}
+.btnhover{
+    color: white;
+}
+
+
+
+.hed-list {
+    position: relative;
+    left: 280px;
+}
+
+.header-list {
+    color: white;
+    font-weight: 500;
+}
+
+.header-list:hover {
+    color: #b3b3b3;
+    text-decoration: none;
+}
+
+.ulpos {
+    position: relative;
+    left: 270px;
+}
+
+/*second section*/
+
+.sec-con-pos {
+    position: relative;
+    top: 240px;
+}
+
+.bg-img {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("../image/backgraund.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.bg-img-tex {
+    width: 65%;
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 200px;
+}
+
+.btn1 {
+    border-radius: 5px;
+    border: solid 2px #506df5;
+    width: 130px;
+    height: 55px;
+    background-color: #506df5;
+    color: white;
+
+}
+
+.btn1:hover {
+    background-color: #5a6268;
+}
+
+.btn2 {
+    border-radius: 5px;
+    border: solid 2px white;
+    width: 130px;
+    height: 55px;
+    color: white;
+    background-color: darkgrey;
+}
+
+.btn2:hover {
+    background-color: white;
+    color: black;
+}
+
+/*section three*/
+
+.card-hover {
+    transition: .5s;
+}
+
+.card-hover:hover {
+    transition: .5s;
+    transform: scale(1.08);
+    z-index: 1;
+}
+
+.three-con {
+    border: solid 1px lightgrey;
+    background-color: white;
+}
+
+.first-card {
+    display: inline;
+}
+
+.display-2 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.display-4 {
+    font-size: 40px;
+    color: #012f5b;
+}
+
+.tex-100 {
+    font-size: 80px;
+    color: #012f5b;
+}
+
+.display-1 {
+    font-size: 20px;
+}
+
+.card-pere {
+    font-size: 14px;
+    text-align: center;
+}
+
+.card-btn {
+    width: 130px;
+    height: 45px;
+    border-radius: 3px;
+    border: solid 2px #506df5;
+    background-color: white;
+    color: #506df5;
+}
+
+.card-btn:hover {
+    background-color: #506df5;
+    color: white;
+}
+
+/*section four*/
+
+.second-bg-img {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("../image/second-bg.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    /*padding-bottom: 20px;*/
+}
+
+.all-space {
+    padding: 75px 0;
+}
+
+.big-font {
+    font-size: 5em;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.img-card-tex {
+    font-size: 23px;
+}
+
+.img-card-btn {
+    width: 130px;
+    height: 48px;
+    border-radius: 5px;
+    border: solid 2px #506df5;
+    color: #506df5;
+    background-color: white;
+}
+
+.img-card-btn:hover {
+    background-color: #506df5;
+    color: white;
+}
+
+.img-card-pere {
+    font-size: 13px;
+}
+
+/*<section five>*/
+
+.third-bg-img {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("../image/background1.jpg");
+}
+
+.service-bg-color {
+    background-color: #f7f7f7;
+}
+
+.star {
+    color: #fd830f;
+    font-size: 20px;
+}
+
+.font-size {
+    font-size: 13px;
+    line-height: 20px;
+    width: 80%;
+}
+
+.sedo {
+    box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.1);
+}
+
+.team-tex {
+    font-size: 5rem;
+}
+
+.team-all-space {
+    padding-bottom: 90px;
+}
+
+
+/*<section six>*/
+
+.under-space {
+    padding: 85px 0px;
+}
+
+.cogs {
+    font-size: 6rem;
+    color: #fde21c;
+    text-align: center;
+}
+
+.secvice-space {
+    padding-bottom: 80px;
+    border: solid 1px white;
+}
+
+.service-pare {
+    width: 92%;
+    text-align: center;
+    color: white;
+    padding-left: 50px;
+}
+
+.service-btn {
+    padding: 12px 20px;
+    border: solid 2px white;
+    color: white;
+}
+
+.service-btn:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.service-all-tex {
+    color: white;
+    padding-left: 20px;
+}
+
+/*<section seven>*/
+
+.work-best {
+    margin: 80px 0px;
+}
+
+
+/*<section-eight>*/
+
+.btns-space {
+    padding: 6rem;
+    background-color: #000000;
+}
+
+.btn-1 {
+    border: 2px solid #fde21c;
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-color: #fde21c;
+    color: black;
+    font-size: 12px;
+
+}
+
+.btn-1:hover {
+    text-decoration: none;
+    color: #fde21c;
+    background-color: #000000;
+}
+
+.btn-2 {
+    border: 2px solid white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-color: #000000;
+    color: white;
+    font-size: 12px;
+}
+
+.btn-2:hover {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}
+
+.btn-3 {
+    border: 2px solid #506df5;
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-color: #506df5;
+    color: white;
+    font-size: 12px;
+}
+
+.btn-3:hover {
+    text-decoration: none;
+    background-color: #000000;
+    color: #506df5;
+}
+
+
+/*<section-nine>*/
+
+.form-name {
+    border: dotted black 1px;
+    width: 100%;
+    padding: 18px;
+}
+
+.form-email {
+    border: dotted black 1px;
+    width: 100%;
+    padding: 13px;
+    margin-top: 35px;
+}
+
+.form-texarea {
+    border: dotted black 1px;
+    width: 100%;
+    padding: 10px;
+    padding-bottom: 150px;
+    margin-top: 35px;
+}
+
+.form-btn {
+    padding: 9px 30px;
+    border: solid 2px #fde21c;
+    background-color: #fde21c;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.form-btn:hover {
+    background-color: white;
+}
+
+.form-tex {
+    font-size: 20px;
+    padding: 15px;
+}
+
+.mail {
+    width: 90%;
+    margin: 30px 15px;
+    font-size: 17px;
+}
+
+.form-address {
+    width: 70%;
+    padding-left: 15px;
+    font-size: 18px;
+}
+
+.list {
+    list-style-type: none;
+    line-height: 30px;
+}
+
+.list-font {
+    font-size: 17px;
+    display: inline-block;
+    padding-left: 10px;
+    font-family: Arial;
+    color: black;
+}
+
+.font-li {
+    font-size: 9px;
+    color: #012f5b;
+    display: inline-block;
+}
+
+.form-logo {
+    width: 38%;
+    padding-top: 15px;
+}
+
+.form-logo-tex {
+    font-size: 13px;
+    padding-top: 25px;
+}
+
+.form-icon {
+    font-size: 20px;
+    color: #012f5b;
+
+}
+
+.mobile-tex {
+    font-size: 18px;
+    display: inline-block;
+    padding-left: 10px;
+    color: black;
+}
+
+.form-mail:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.form-mail {
+    color: black;
+    padding-left: 9px;
+}
+
+/*<section ten>*/
+
+
+.bg-last-section {
+    background-color: #313131;
+}
+
+.last-setion {
+    padding: 50px 0;
+}
